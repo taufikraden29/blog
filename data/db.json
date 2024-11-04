@@ -1,0 +1,51 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Tulisan Untukmu",
+      "author": "Raden",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "Come and Go!",
+      "author": "Yusuf",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "views": 200
+    },
+    {
+      "id": "4",
+      "title": "taufikk",
+      "author": "",
+      "description": "Testee"
+    },
+    {
+      "id": "5",
+      "title": "taufikk",
+      "author": "",
+      "description": "Testee"
+    },
+    {
+      "id": "6",
+      "title": "taufikk",
+      "author": "",
+      "description": "Testee"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
